@@ -1,2 +1,2 @@
-client/.env
-client/config
+server/.env
+server/config
