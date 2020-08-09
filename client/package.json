@@ -1,0 +1,11 @@
+{
+  "name": "tempest-client",
+  "version": "1.0.0",
+  "description": "The GUI client for a Tempest Server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ComedicChimera",
+  "license": "MIT"
+}
